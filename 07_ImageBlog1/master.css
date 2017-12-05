@@ -1,6 +1,10 @@
 h1 {
   font-family: Helvetica, Arial, sans-serif;
   text-transform: uppercase;
+  margin-left: 1.66%;
+  width: 30%;
+  border-bottom: 3px solid #f1f1f1;
+  padding-bottom: 20px;
 }
 
 .photos_wrapper {
