@@ -1,0 +1,16 @@
+h1 {
+  font-family: Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+}
+
+.photos_wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+img {
+  width: 30%;
+  height: 375px;
+  padding: 1.66%;
+}
